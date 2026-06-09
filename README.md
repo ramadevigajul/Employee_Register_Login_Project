@@ -140,15 +140,13 @@ http://localhost:8080
 
 ### 🔑 Login Page
 
-*Add login page screenshot here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c1eea67-2b24-4b6c-a0c4-d0886c9be192" />
+
 
 ### 📝 Registration Page
 
-*Add registration page screenshot here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce0011e1-eb03-4ac6-9b78-5ffda3415ba4" />
 
-### 🏠 Home Page
-
-*Add home page screenshot here*
 
 ---
 
