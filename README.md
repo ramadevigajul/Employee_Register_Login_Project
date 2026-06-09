@@ -148,6 +148,10 @@ http://localhost:8080
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce0011e1-eb03-4ac6-9b78-5ffda3415ba4" />
 
 
+🏠 Home Page
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b622b2c3-8372-4689-9bb8-a3a72c9759e1" />
+
 ---
 
 ## 🌟 Future Enhancements
