@@ -152,6 +152,12 @@ http://localhost:8080
 
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b622b2c3-8372-4689-9bb8-a3a72c9759e1" />
 
+
+### 🗄️ Database Table (MySQL)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3afc3539-47ee-4920-9a04-c8ef99cf92e0" />
+
+
 ---
 
 ## 🌟 Future Enhancements
